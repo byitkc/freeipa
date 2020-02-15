@@ -21,3 +21,7 @@ The ```add:passwordExpirationTime``` line above is OPTIONAL
 ## Run the LDAP Updater against the file
 
 ```ipa-ldap-updater ./file.update```
+
+## Sources
+
+https://www.freeipa.org/page/Creating_a_binddn_for_Foreman
