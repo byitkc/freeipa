@@ -1,5 +1,9 @@
 # Creating a Bind DN for use with LDAP Integrated Tools
 
+## Summary
+
+There are instances where there are LDAP integrated systems that require us to use a Bind DN to authenticate against LDAP and query LDAP. We can easily create Bind DN's as Service Accounts using the following setup.
+
 ## Create a file with the details of our user
 
 ```
